@@ -1,4 +1,4 @@
-## 👋 Olá, Eu sou o Felipe Cabral!
+## 👋 Olá, Eu sou o Felipe Cabral!  <img align="right" alt="Felipe-WP" height="60" width="60"  src="programmers.gif">
 
 &nbsp;&nbsp;&nbsp;&nbsp; Sou um entusiasta de tecnologia, formado em bacharel de sistemas de informação pela universidade Nove de Julho - UNINOVE, trabalho na área há mais de 10 anos desempenhando as funções de suporte técnico; análise de sistemas; desenvolvimento de relatórios BI (GDI); manipulação em banco de dados MS SQL Server; um pouco de desenvolvimento de aplicações WEB e criação de WEBSITES em WordPress. 
   
@@ -29,5 +29,3 @@ Atualmente estudando para se tornar um desenvolvedor Full Stack e participando d
   <a href = "mailto:felipecabral33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipecabral94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- 
-

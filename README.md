@@ -4,13 +4,13 @@
   
 Atualmente estudando para se tornar um desenvolvedor Full Stack e participando do Bootcamp Carrefour Web Developer na <a href="https://web.dio.me/track/carrefour-web-developer" target="_blank">DIO.</a>
 <br><br>
-<div style="display: inline_block"><br>
-  <div align="center">
-    <a href="https://github.com/felipecabraloliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecabraloliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecabraloliveira&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+
+<div align="center">
+  <a href="https://github.com/felipecabraloliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecabraloliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecabraloliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
   
 <div style="display: inline_block"><br>
   <h2>Tecnologias que utilizo</h2>       
